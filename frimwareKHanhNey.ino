@@ -5,6 +5,12 @@
 #include <ESP8266mDNS.h>
 #include <DNSServer.h>
 #include "DHT.h"
+kjhkhkhkhjk
+gjgjhgh
+
+
+kjhkjhkh
+hkhk
 
 // ======= Thay đổi các thông tin ở đây =========
 
